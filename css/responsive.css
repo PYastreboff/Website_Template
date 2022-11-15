@@ -1,0 +1,11 @@
+/* CSS for all responsive elements */
+
+/* On screens that are 992px or less, noramlly tablets and ipads */
+@media screen and (max-width: 992px) {
+
+}
+
+/* On screens that are 600px or less, normally phones */
+@media screen and (max-width: 600px) {
+    
+}
